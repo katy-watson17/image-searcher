@@ -1,0 +1,28 @@
+body {
+	background-color: #8ffff8;
+}
+
+#search-field {
+	padding: 5px;
+	width: 250px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+button {
+	padding: 5px;
+}
+
+#image-container {
+	margin: 0 auto;
+	margin-top: 10%;
+	max-width: 100%;
+	max-height: 100%;
+	overflow: auto;
+}
+
+#img {
+	max-width: 100%;
+	max-height: 100%;
+	object-fit: contain;
+}
